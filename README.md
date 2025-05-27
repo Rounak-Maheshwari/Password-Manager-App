@@ -2,7 +2,7 @@
 
 A GUI-based password manager app built with Python. Features include secure password generation, credential storage in JSON format, and a simple search function.
 
-## 🚀 Features
+## Features
 
 - Generate strong passwords with letters, symbols, and numbers
 - Copy generated passwords directly to clipboard
